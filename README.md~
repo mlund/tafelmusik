@@ -5,8 +5,8 @@ Tafelmusic library for playing background music from C++
 programs. Currently C64 SID music is supported on Mac via
 [TinySID](http://www.rsinsch.de)
 
-Compiling
----------
+Compile and test
+----------------
 
     $ cmake .
     $ make
